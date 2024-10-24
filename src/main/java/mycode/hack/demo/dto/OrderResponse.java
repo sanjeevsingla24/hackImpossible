@@ -1,4 +1,4 @@
-package com.javatechie.jpa.dto;
+package mycode.hack.demo.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
