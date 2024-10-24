@@ -1,10 +1,10 @@
 package mycode.hack.demo.controller;
 
-import com.javatechie.jpa.dto.OrderRequest;
-import com.javatechie.jpa.dto.OrderResponse;
-import com.javatechie.jpa.entity.Customer;
-import com.javatechie.jpa.repository.CustomerRepository;
-import com.javatechie.jpa.repository.ProductRepository;
+import mycode.hack.demo.dto.OrderRequest;
+import mycode.hack.demo.dto.OrderResponse;
+import mycode.hack.demo.entity.Customer;
+import mycode.hack.demo.repository.CustomerRepository;
+import mycode.hack.demo.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,10 +1,10 @@
-package com.javatechie.jpa.dto;
+package mycode.hack.demo.dto;
 
-import com.javatechie.jpa.entity.Customer;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
+import mycode.hack.demo.entity.Customer;
 
 @Data
 @AllArgsConstructor

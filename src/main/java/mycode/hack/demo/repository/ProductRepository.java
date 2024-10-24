@@ -1,6 +1,6 @@
-package com.javatechie.jpa.repository;
+package mycode.hack.demo.repository;
 
-import com.javatechie.jpa.entity.Product;
+import mycode.hack.demo.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProductRepository extends JpaRepository<Product,Integer> {
